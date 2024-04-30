@@ -4,7 +4,7 @@ import TransactionHistory from '../TransactionHistory/TransactionHistory';
 import userData from '../userData.json';
 import friends from '../friends.json';
 import transactions from '../transactions.json';
-import css from './App.module.css';
+// import css from './App.module.css';
 // console.log(css);
 
 export default function App() {
